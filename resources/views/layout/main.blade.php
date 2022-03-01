@@ -78,7 +78,7 @@
         <div class="container nav-header-container">
             <div class="row">
                 <div class="col-md-2 col-xs-5">
-                    <a href="{{ url('/rumah') }}" title="Logo" class="logo scroll"><img src="images/logo.png" class="logo-dark default"></a>
+                    <a href="/home" title="Logo" class="logo"><img src="images/logo.png" class="logo-dark default"/></a>
                 </div>
                 <!-- end logo -->
                 <div class="col-md-7 col-xs-2 width-auto pull-right accordion-menu xs-no-padding-right hidden-sm hidden-xs">
@@ -87,10 +87,10 @@
                             data-in="fadeIn" data-out="fadeOut">
                             <!-- start menu item -->
                             <li class="active">
-                                <a href="{{ url('/rumah#home') }}" class="scroll">Home</a>
+                                <a href="#home" class="scroll">Home</a>
                             </li>
                             <li>
-                                <a href="{{ url('/rumah#fitur') }}" class="scroll">Fitur</a>
+                                <a href="#fitur" class="scroll">Fitur</a>
                             </li>
                             <li>
                                 <a href="#profil" class="scroll">Profil</a>

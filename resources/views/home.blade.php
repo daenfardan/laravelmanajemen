@@ -95,7 +95,7 @@
                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                 <!-- MAIN IMAGE -->
                 <img src="images/banner2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="7" data-no-retina>
-                <div class="rs-background-video-layer"
+                <!-- <div class="rs-background-video-layer"
                      data-forcerewind="on"
                      data-volume="mute"
                      data-videowidth="100%"
@@ -106,7 +106,7 @@
                      data-forceCover="1"
                      data-aspectratio="16:9"
                      data-autoplay="true"
-                     data-autoplayonlyfirsttime="false"></div>
+                     data-autoplayonlyfirsttime="false"></div> -->
 
                 <!--If you need youtube video-->
                 <!--<div class="rs-background-video-layer"
@@ -434,7 +434,7 @@
             <!-- Vertical tabs content01 start-->
             <div role="tabpanel" class="tab-pane active" id="graphicesigning">
               <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="http://placehold.it/400x400" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/Portfolio-7.jpg" alt=""></div>
                 <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
                     <h3>Akademik</h3>
                     <div class="table-responsive">
@@ -458,7 +458,7 @@
             <!-- Vertical tabs content02 start-->
             <div role="tabpanel" class="tab-pane fade" id="onlinemarketing">
               <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="http://placehold.it/400x400" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/Portfolio-7.jpg" alt=""></div>
                 <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
                   <h3>Panduan - Panduan</h3>
                     <div class="table-responsive">
@@ -488,7 +488,7 @@
             <!-- Vertical tabs content03 start-->
             <div role="tabpanel" class="tab-pane fade" id="brandstrategy">
               <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="http://placehold.it/400x400" alt=""></div>
+                <div class="col-xs-12 col-sm-6 col-md-5 col-lg-5"><img src="images/Portfolio-7.jpg" alt=""></div>
                 <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
                   <h3>Panduan Praktikum</h3>
                   <div class="table-responsive">

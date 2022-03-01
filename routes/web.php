@@ -13,11 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-/*Route::view('/home', 'home')->name('home');*/
+Route::view('/welcome', 'welcome')->name('welcome');
 
-Route::get('/rumah', function(){
-    return view('home');
-});
+Route::view('/home', 'home')->name('home');
+
+// Route::get('/rumah', function(){
+//     return view('home');
+// });
 
 Route::get('/sambutanketuaprodi', function() {
     return view('sambutanketuaprodi');
