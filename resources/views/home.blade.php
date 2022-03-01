@@ -291,36 +291,36 @@
                     <div class="item">
                         <div class="service-box">
                             <span><i class="fa fa-clipboard"></i></span>
-                            <h6 class="text-white font-weight-600 alt-font">Well Documented</h6>
-                            <p class="text-white">This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <h6 class="text-white font-weight-600 alt-font">HMJ - Manajemen</h6>
+                            <p class="text-white">-</p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="service-box">
                             <span><i class="fa fa-laptop"></i></span>
-                            <h6 class="text-white font-weight-600 alt-font">Fully Responsive</h6>
-                            <p class="text-white">This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <h6 class="text-white font-weight-600 alt-font">KPM</h6>
+                            <p class="text-white">-</p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="service-box">
                             <span><i class="fa fa-support"></i></span>
-                            <h6 class="text-white font-weight-600 alt-font">Full Support</h6>
-                            <p class="text-white">This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <h6 class="text-white font-weight-600 alt-font">SOE</h6>
+                            <p class="text-white">-</p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="service-box">
                             <span><i class="fa fa-edit"></i></span>
-                            <h6 class="text-white font-weight-600 alt-font">Clean Coded</h6>
-                            <p class="text-white">This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <h6 class="text-white font-weight-600 alt-font">PKM</h6>
+                            <p class="text-white">-</p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="service-box">
                             <span><i class="fa fa-globe"></i></span>
-                            <h6 class="text-white font-weight-600 alt-font">SEO Optimized</h6>
-                            <p class="text-white">This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet</p>
+                            <h6 class="text-white font-weight-600 alt-font">Keuangan</h6>
+                            <p class="text-white">-</p>
                         </div>
                     </div>
                 </div>
@@ -1070,90 +1070,4 @@
     </div>
 </section>
 <!-- clients end -->
-
-<!-- contact-->
-<section id="contact" class="btn-version">
-    <div class="get-quote-section xs-text-center">
-        <div class="container">
-            <div class="row clearfix">
-                <!--Form Column-->
-                <div class="col-md-6">
-                    <div class="sec-title margin-50px-bottom">
-                        <h3 class="text-capitalize alt-font text-extra-dark-gray font-weight-300">
-                            Lets Get In Touch</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum
-                            illum ratione atque praesentium
-                            laudantium quaerat laborum consecteturLorem ipsum dolor sit amet, consectetur adipisicing
-                            elit.</p>
-                    </div>
-                    <div class="row margin-15px-bottom">
-                        <div class="col-sm-1 no-padding">
-                            <div class="contact-icon text-blue">
-                                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            </div>
-                        </div>
-                        <div class="col-sm-11">
-                            <p class="text-small">San Francisco, CA 560 Bush St & 20th Ave,<br> Apt 5 San Francisco, 230909</p>
-                        </div>
-                    </div>
-                    <div class="row margin-15px-bottom">
-                        <div class="col-sm-1 no-padding">
-                            <div class="contact-icon text-blue">
-                                <i class="fa fa-phone" aria-hidden="true"></i>
-                            </div>
-                        </div>
-                        <div class="col-sm-11">
-                            <p class="text-small">+01 2323 7328 322<br>+01 2323 7328 322</p>
-                        </div>
-                    </div>
-                    <div class="row margin-15px-bottom">
-                        <div class="col-sm-1 no-padding">
-                            <div class="contact-icon text-blue">
-                                <i class="fa fa-globe" aria-hidden="true"></i>
-                            </div>
-                        </div>
-                        <div class="col-sm-11 xs-margin-50px-bottom">
-                            <p class="text-small">email@demo.com<br>www.demo.com</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="form-column col-md-6">
-                    <div class="contact-form">
-                        <!--Title-->
-                        <form class="form_class">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="form-group">
-                                        <input type="text" class="form_inputs" name="name" placeholder="Name">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <input type="text" class="form_inputs" name="email" placeholder="Email">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <input type="text" class="form_inputs" name="phone no" placeholder="Phone">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-12 no-padding">
-                                <div class="form-group">
-                                <textarea name="message" id="message" class="form_inputs form_inputs_two" rows="6"
-                                          cols="25" placeholder="Type Your Message"></textarea>
-                                </div>
-                                <div class="button">
-                                    <a href="#." class="btn btn-blue btn-rounded btn-large text-extra-small width-100">Get
-                                        Started</a>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- contact end -->
 @endsection

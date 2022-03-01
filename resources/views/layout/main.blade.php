@@ -36,7 +36,6 @@
     <link rel="stylesheet" href="css/custom.css"/>
     <link rel="stylesheet" href="css/orange.css"/>
     <script src="https://kit.fontawesome.com/1beff9acae.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
 
 
 </head>
@@ -88,7 +87,7 @@
                             data-in="fadeIn" data-out="fadeOut">
                             <!-- start menu item -->
                             <li class="active">
-                                <a href="{{ url('/rumah#home') }}" class="scroll">Rumah</a>
+                                <a href="{{ url('/rumah#home') }}" class="scroll">Home</a>
                             </li>
                             <li>
                                 <a href="{{ url('/rumah#fitur') }}" class="scroll">Fitur</a>
@@ -243,34 +242,8 @@
 <script src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
 <script src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="revolution/js/extensions/revolution.extension.video.min.js"></script>
-<!-- Google Map Api -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgC6ZapXdUzFdeQOFhdm_wucwlDMMQ8CQ"></script>
-<script src="js/map.js"></script>
 <!-- setting -->
 <script src="js/main.js"></script>
 
-<script>
-    var xValues = ["Italy", "France", "Spain", "USA", "Argentina"];
-    var yValues = [55, 49, 44, 24, 15];
-    var barColors = ["red", "green","blue","orange","brown"];
-    
-    new Chart("myChart", {
-      type: "bar",
-      data: {
-        labels: xValues,
-        datasets: [{
-          backgroundColor: barColors,
-          data: yValues
-        }]
-      },
-      options: {
-        legend: {display: false},
-        title: {
-          display: true,
-          text: "World Wine Production 2018"
-        }
-      }
-    });
-    </script>
 </body>
 </html>
